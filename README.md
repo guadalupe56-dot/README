@@ -3,6 +3,8 @@
 ## Resumen 📖
 Las redes sociales son estructuras formadas en Internet por personas u organizaciones que se conectan a partir de intereses o valores comunes. A través de ellas, se crean relaciones entre individuos o empresas de forma rápida, sin jerarquía o límites físicos.
 Por ello mi equipo y yo creamos Esta pagina de red social diseñada para conectar a personas con intereses similares y facilitar la comunicación y el intercambio de contenido.
+## 📌Objetivos del proyecto
+
 ## Proceso de Diseño 🎨
 
 1. **Investigación y Planificación:**
