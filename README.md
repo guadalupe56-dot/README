@@ -54,11 +54,6 @@ Con esta aplicación, los usuarios pueden acceder fácilmente a toda la informac
 
 
 
-## 🔨 Stack 
-
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 ## 👩‍💻Creado por: 
 
