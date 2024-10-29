@@ -59,18 +59,24 @@ La principal función de una red social es conectar personas dentro del mundo vi
 
 ### Prototipo de Baja Fidelidad 📝
 
-| Página Principal | Página de Selección |
-| ---------------- | -------------------- |
-| ![Página Principal](blob:https://web.whatsapp.com/d5342b68-3943-4d17-836d-da225af3f9c9) | ![Página de Selección] |
+ Página Principal
+ 
+ ![alt text](<WhatsApp Image 2024-10-16 at 9.19.58 PM (1).jpeg>)
 
-| Selección | Detalles |
-| ---------- | ------- |
-| ![Personajes]| ![Lugares]
+Pagina de Inicio de Seción
+
+![alt text](<WhatsApp Image 2024-10-16 at 8.59.31 PM-1.jpeg>)
+
+Página de Perfil
+
+ ![alt text](<WhatsApp Image 2024-10-16 at 9.07.27 PM.jpeg>)
 
 ### Prototipo de Alta Fidelidad 💻
+Página Principal
+Pagina de Inicio de Seción
 
-
-
+![alt text](<WhatsApp Image 2024-10-28 at 9.56.24 PM (1).jpeg>)
+Página de Perfil
 
 
 ## 👩‍💻Creado por: 
