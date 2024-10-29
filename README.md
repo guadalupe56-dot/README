@@ -73,23 +73,31 @@ Para la creacion de Chattergram primero decidimos guiarnos del modelo de Instagr
 
 ### Prototipo de Baja Fidelidad 📝
 
- Página Principal
- 
-![alt text](image-1.png)
-
 Pagina de Inicio de Seción
 
 ![alt text](image.png)
 
+ Página Principal
+
+![alt text](image-1.png)
+
 Página de Perfil
 
 ![alt text](image-2.png)
- 
+
 ### Prototipo de Alta Fidelidad 💻
 
 Pagina de Inicio de Seción
 
 ![alt text](image-3.png)
+
+Pagina principal
+
+![alt text](image-4.png)
+
+Pagina de perfil
+
+![alt text](image-5.png)
 
 ## Tecnologías Utilizadas 👓👓
 
